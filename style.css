@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+.image-generator {
+  height: 40vh;
+  display: flex;
+  background: url('./img/bg.jpg');
+  background-size: cover;
+  background-position: center;
+}
